@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet');
+
+:root{
+    /*Paleta de colores */
+
+    --color-amarillo : #eac926;
+    --color-azul : #03264C;
+    --color-celeste : #1259c3;
+    --color-gris-oscuro :#666;;
+    --color-gris-claro : #ebebeb;
+    --color-verde: #39b54a;
+
+    /*Tamaños tipográficos*/
+
+    --Cuerpos-de-texto: 12px;
+    --Titulares : 24px;
+    --Precios: 18px;
+    --Descuentos: 16px;
+    --Descripciones: 16px;
+   
+}
+
+*{
+    box-sizing: border-box;
+}
